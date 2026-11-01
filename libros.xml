@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<biblioteca>
+    <libro publicado_en="1842">
+        <titulo>El Capote</titulo>
+        <autor>Nikolai Gogol</autor>
+    </libro>
+    <libro publicado_en="1605">
+        <titulo>Don Quijote</titulo>
+        <autor>Miguel de Cervantes</autor>
+    </libro>
+    <libro publicado_en="1943">
+        <titulo>El Principito</titulo>
+        <autor>Antoine de Saint-Exupéry</autor>
+    </libro>
+    <libro publicado_en="1980">
+        <titulo>El nombre de la rosa</titulo>
+        <autor>Umberto Eco</autor>
+    </libro>
+    <libro publicado_en="1954">
+        <titulo>El Señor de los Anillos</titulo>
+        <autor>J.R.R. Tolkien</autor>
+    </libro>
+</biblioteca>
